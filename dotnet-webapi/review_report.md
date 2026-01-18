@@ -1,7 +1,7 @@
 # Formal Code Review: Core-Api
 
-**Skill Used**: [.NET Framework (Web API) Code Review Guidelines](https://github.com/beau168/Code_Review_Skills/dotnet-webapi/SKILL.md)
-**Project**: [Core-Api](https://github.com/beau168/DotNet_Template_Using_Angular_React_Vue/core-api)
+**Skill Used**: [.NET Framework (Web API) Code Review Guidelines](https://github.com/beau168/Code_Review_Skills/blob/main/dotnet-webapi/SKILL.md)
+**Project**: [Core-Api](https://github.com/beau168/DotNet_Template_Using_Angular_React_Vue/tree/main/core-api)
 
 ## 📊 Executive Summary
 
