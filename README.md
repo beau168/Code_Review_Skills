@@ -16,13 +16,10 @@ The following code review skills are currently available:
 
 ## 📂 Project Structure
 
-```text
-Code_Review_Skills/
-├── angular/          # Angular-specific review guidelines
-├── dotnet-webapi/    # .NET Framework Web API guidelines ([Example Review](dotnet-webapi/review_report.md))
-├── react/            # React-specific review guidelines
-└── vue/              # Vue-specific review guidelines
-```
+- **[angular/](angular/SKILL.md)** — Angular-specific review guidelines
+- **[dotnet-webapi/](dotnet-webapi/SKILL.md)** — .NET Framework Web API guidelines ([Example Review](dotnet-webapi/review_report.md))
+- **[react/](react/SKILL.md)** — React-specific review guidelines
+- **[vue/](vue/SKILL.md)** — Vue-specific review guidelines
 
 ## 🛠️ Usage
 
